@@ -1,5 +1,5 @@
 # AutoSaper
-Simple sapper game in python with use of pygame.
+Simple minesweeper game in python with use of pygame.
 <br>
 <br>
 You can play it like ordinary sapper
